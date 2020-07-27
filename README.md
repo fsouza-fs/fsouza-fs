@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Felipe-s76/Felipe-s76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there, I'm Felipe 👋
+<HTML>
+  <body>
+    <ul>
+      <li>I'm 20 years old </li>
+      <li>Currently looking for intership programs </li>
+      <li>I've been creating projects with the tecnologies: </li>
+    </ul>
+    <img src="https://s2.glbimg.com/DyDQQTZSF1oEiO8kawMIxP72KzQ=/290x417/s.glbimg.com/jo/g1/f/original/2011/08/22/22-java-300.jpg" height="65" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="50"        width="50">
+  </body>
+</HTML>
