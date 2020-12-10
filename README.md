@@ -3,7 +3,7 @@
   <body>
     <ul>
       <li>I'm 20 years old </li>
-      <li>Currently looking for intership programs </li>
+      <li>Developer Intern</li>
       <li>I've been creating projects with the tecnologies: </li>
     </ul>
     <div style="display:flex;flex-type:column; padding:10px">
