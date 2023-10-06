@@ -2,8 +2,8 @@
 <HTML>
   <body>
     <ul>
-      <li>I'm 22 years old </li>
-      <li>Devops Analyst</li>
+      <li>I'm 23 years old </li>
+      <li>Platform Engineer</li>
       <li>I've been creating projects with the tecnologies: </li>
     </ul>
     <div style="display:flex;flex-type:column; padding:10px">
